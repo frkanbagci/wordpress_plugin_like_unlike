@@ -1,0 +1,30 @@
+/*
++---------------------------------------------------------------------------+
+|																       		|
+|	WordPress Plugin: Like Dislike Counter						 			|
+|	Copyright (c) 2012 WP Fruits								 			|
+|																 			|
+|																 			|
+|	File Information:											 			|
+|	- Like Dislike Counter CSS File							     			|
+|	- wp-content/plugins/like-dislike-counter/like_dislike_style.css		|																						|																 			|
++---------------------------------------------------------------------------+
+*/
+
+.ul_lcont {
+	cursor: pointer;
+	padding: 6px 6px 6px 25px;
+	background: url('images/up.png') no-repeat 6px center;
+}
+.ul_dcont {
+	cursor: pointer;
+	padding: 6px 6px 6px 25px;
+	background: url('images/down.png') no-repeat 6px center;
+}
+.like_dislike_numbers {
+	font-size: 14px;
+}
+.like_dislike_text {
+	display: inline;
+	font-size: 14px;
+}
